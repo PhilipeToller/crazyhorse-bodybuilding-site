@@ -1,6 +1,6 @@
-# ![Crazyhorse Logo](assets/logo-crazyhorse.png) Crazyhorse Bodybuilding Centro de Treinamento
+# Crazyhorse Bodybuilding Centro de Treinamento
 
- <!-- Substitua pelo caminho correto da imagem do logo -->
+ ![Crazyhorse Logo](assets/logo-crazyhorse.png)<!-- Substitua pelo caminho correto da imagem do logo -->
 
 ## 📝 Descrição
 Website desenvolvido para a **Crazyhorse Bodybuilding Centro de Treinamento**, um espaço dedicado ao treinamento de alto desempenho e consultoria personalizada.  
