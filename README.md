@@ -1,47 +1,64 @@
-# 🌐 Crazyhorse Bodybuilding Centro de Treinamento
+# 🏋️ Crazyhorse Bodybuilding Centro de Treinamento
 
-![Preview do Site](assets/home.png) <!-- Substituir pelo caminho da imagem ou link direto -->
+![Crazyhorse Logo](assets/logo-crazyhorse.png) <!-- Substitua pelo caminho correto da imagem do logo -->
 
 ## 📝 Descrição
-Site one-page desenvolvido para o **Crazyhorse Bodybuilding Centro de Treinamento**, localizado em São Lourenço do Oeste, SC. Este projeto foi criado para destacar os serviços da academia, horários, informações de contato e atrair novos clientes.  
+Website desenvolvido para a **Crazyhorse Bodybuilding Centro de Treinamento**, um espaço dedicado ao treinamento de alto desempenho e consultoria personalizada.  
 
-O foco foi criar uma interface moderna, responsiva e intuitiva, garantindo uma ótima experiência em dispositivos móveis e desktop.
+Este é um site **One Page** moderno e responsivo, com navegação fluida entre as seções e design focado em destacar os serviços e a excelência da academia.
+
+---
 
 ## 🚀 Tecnologias Utilizadas
-- **WordPress** com Elementor para customização de design.  
-- Plugins:  
-  - **Yoast SEO** para otimização de buscas.  
-  - **WPForms** para o formulário de contato.  
-- HTML/CSS para ajustes específicos e personalizações adicionais.  
+- **WordPress** com personalização de tema
+- **Elementor** para construção e layout
+- Plugins adicionais:
+  - SEO otimizado com **Yoast SEO**
+  - Integração com **Google Analytics**
+  - Galeria de imagens com **Lightbox**
+- HTML/CSS para ajustes visuais personalizados
 
-## 🎯 Meu Papel no Projeto
-- Configuração inicial do WordPress e customização do tema.  
-- Criação de uma estrutura de página única (One Page) com as seções:  
-  - Apresentação  
-  - Serviços  
-  - Horários  
-  - Contato  
-- Integração com Google Analytics para monitoramento de tráfego.  
-- Otimização de SEO on-page e carregamento.  
+---
+
+## 🌟 Estrutura do Site
+O site é dividido nas seguintes seções:  
+1. **Início** – Apresentação da academia com chamada principal.  
+2. **Sobre Nós** – História e valores da Crazyhorse Bodybuilding.  
+3. **Serviços** – Treinamentos personalizados e consultoria.  
+4. **Consultoria** – Detalhes sobre os programas oferecidos.  
+5. **Fotos** – Galeria de imagens das instalações e treinamentos.  
+6. **Clientes** – Depoimentos e experiências de clientes satisfeitos.  
+7. **Depoimentos** – Avaliações de quem já treinou na Crazyhorse.  
+8. **Na Mídia** – Destaques da academia em portais e redes sociais.  
+9. **Contato** – Formulário e informações de contato.
+
+---
 
 ## 📷 Screenshots
-- **Seção de Apresentação:**  
-  ![Apresentação](assets/home.png)  
+- **Início**  
+  ![Seção Início](assets/inicio.png)  
 
-- **Seção de Serviços:**  
-  ![Serviços](assets/servicos.png)  
+- **Serviços**  
+  ![Seção Serviços](assets/servicos.png)  
 
-- **Seção de Contato:**  
-  ![Contato](assets/contato.png)  
+- **Contato**  
+  ![Seção Contato](assets/contato.png)  
 
-## 🌐 Link para o Site
-[Crazyhorse Bodybuilding](https://crazyhorse.esp.br/)
+---
 
-## 📊 Impacto do Projeto
-- **Aumento de Visibilidade:** Site otimizado para mecanismos de busca, ampliando o alcance da academia.  
-- **Feedback Positivo:** Clientes elogiaram a interface moderna e a facilidade de navegação.  
+## 🎯 Meu Papel no Projeto
+- Configuração e personalização completa do tema WordPress.  
+- Criação e design de todas as seções com foco na identidade visual da academia.  
+- Integração com ferramentas externas como Google Analytics e Lightbox.  
+- Otimização para dispositivos móveis e SEO básico.  
+
+---
+
+## 🌐 Link do Projeto
+[Clique aqui para visitar o site Crazyhorse Bodybuilding](https://crazyhorse.esp.br/)
+
+---
 
 ## 📬 Entre em Contato
-Caso tenha dúvidas ou queira saber mais sobre o projeto:  
 - 📧 E-mail: [philipetoller@gmail.com](mailto:philipetoller@gmail.com)  
-- 🌐 [Meu Portfólio](https://lupawebsites.com.br)
+- 🌐 [Meu Portfólio](https://lupawebsites.com.br)  
